@@ -97,4 +97,7 @@ service iptables save
 ```
 
 Сервера centralServer, office1Server и office2Server ходят в инет через inetRouter (см. screenshots)
+
 Сервера centralServer, office1Server и office2Server видят друг-друга (см. screenshots)
+
+После перезагрузки хостов настройки не слетают
